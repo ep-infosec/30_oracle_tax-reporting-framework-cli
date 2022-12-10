@@ -1,0 +1,6 @@
+{
+    "name": "PROJECT",
+    "guid": "UUID",
+    "legacyCountries": ["COUNTRY"],
+    "requiredFeatures": []
+}

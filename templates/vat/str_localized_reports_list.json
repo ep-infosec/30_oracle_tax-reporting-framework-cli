@@ -1,0 +1,17 @@
+{
+  "list": [
+    {
+      "name": "VAT COUNTRY Report",
+      "country": "COUNTRY",
+      "report": "VAT",
+      "islegacy": true,
+      "isCountryDefault": true,
+      "uuid": "UUID",
+      "createdBy": "com.netsuite.PROJECT",
+      "translations": {
+        "en_US": "VAT COUNTRY Report"
+      },
+      "details": "DETAILS"
+    }
+  ]
+}
